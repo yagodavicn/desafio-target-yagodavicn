@@ -1,4 +1,3 @@
-# Faturamento mensal por estado
 faturamento_estados = {
     "SP": 67836.43,
     "RJ": 36678.66,
